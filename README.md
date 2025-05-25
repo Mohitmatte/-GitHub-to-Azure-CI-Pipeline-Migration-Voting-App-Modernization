@@ -49,5 +49,65 @@ The voting app is a microservices-based architecture, consisting of:
 
 ---
 
-## 📁 Repository Structure
+---
+
+## 🧪 CI/CD Workflow (Azure Pipelines)
+
+Each pipeline performs the following:
+
+1. **Checkout Code** from GitHub
+2. **Set up Docker Environment**
+3. **Build Docker Image**
+4. **Push Image to Azure Container Registry (ACR)**
+
+> Modular YAML structure allows easier scaling and service addition.
+
+---
+
+## 🌟 Why This Project Matters
+
+This project simulates **real-world DevOps challenges** like:
+
+- Multi-language microservices
+- CI pipeline standardization and migration
+- Azure DevOps usage for complex builds
+- Efficient use of Docker & container registries
+- End-to-end delivery pipelines
+
+---
+
+## 📌 What I Learned
+
+- Best practices in CI/CD migration from GitHub to Azure DevOps  
+- Handling multiple tech stacks in a single deployment pipeline  
+- Optimizing pipelines for modularity and performance  
+- Integrating Docker workflows into Azure DevOps effectively  
+
+---
+## 📸 Project Preview
+
+![Azure Pipeline Success](./screenshot/Screenshot%202025-05-25%20175126.png.png)
+*Successful run of the Vote, Worker, and Result pipelines in Azure DevOps*
+
+
+
+## 📎 Future Improvements
+
+- Add CD pipelines for automated deployment to Azure App Services / Kubernetes  
+- Set up integration tests after build stage  
+- Use Terraform to provision infrastructure
+
+---
+
+## 📬 Contact
+
+**Mohit Dushyant Matte**  
+📧 [mattemohit2002@gmail.com]  
+
+---
+
+> *This project is a testament to my capability in handling real-world DevOps tasks, CI/CD pipeline design, and cross-platform deployments using Azure DevOps.*
+
+
+
 
