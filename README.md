@@ -86,7 +86,7 @@ This project simulates **real-world DevOps challenges** like:
 ---
 ## 📸 Project Preview
 
-![Azure Pipeline Success](./screenshot/Screenshot%202025-05-25%20175126.png.png)
+![Azure Pipeline Success](./screenshot/Screenshot%202025-05-25%20175126.png)
 *Successful run of the Vote, Worker, and Result pipelines in Azure DevOps*
 
 
